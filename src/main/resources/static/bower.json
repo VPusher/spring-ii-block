@@ -1,0 +1,29 @@
+{
+  "name": "io",
+  "version": "0.0.1",
+  "authors": [
+    "Florian Maffini <florian.maffini@gmail.com>"
+  ],
+  "description": "IO Blocks",
+  "keywords": [
+    "io",
+    "block",
+    "wire",
+    "input",
+    "output"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.3",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.4",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.6"
+  }
+}
